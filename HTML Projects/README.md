@@ -1,4 +1,3 @@
-````markdown
 # HTML Projects
 
 This directory contains all HTML projects that I complete while following the **HTML Roadmap** from [roadmap.sh](https://roadmap.sh/html).
@@ -15,14 +14,14 @@ The goal of this folder is to practice and strengthen my understanding of core H
 
 ## Projects
 
-| Project | Status | Description |
-|---------|--------|-------------|
-| Single-Page CV | ⏳ In Progress | A simple CV built using semantic HTML. |
-| Basic HTML Website | ⏳ Planned | Multi-page website using only HTML. |
-| Personal Portfolio | ⏳ Planned | Portfolio website built with HTML. |
-| Changelog Component | ⏳ Planned | A semantic changelog page. |
-| Testimonial Cards | ⏳ Planned | Static testimonial card layouts. |
-| ... | ... | More projects will be added as I progress. |
+| Project | Folder | Status | Description |
+|---------|--------|:------:|-------------|
+| Single-Page CV | `single-page-cv` | ⏳ | A one-page CV using semantic HTML. |
+| Basic HTML Website | `basic-html-website` | ⏳ | A simple multi-page HTML website. |
+| Pricing Comparison Table | `pricing-comparison-table` | ⏳ | An accessible HTML pricing table. |
+| Blog Post Page | `blog-post-page` | ⏳ | A semantic blog post layout. |
+| Contact Form | `contact-form` | ⏳ | An accessible HTML contact form. |
+| Photo Showcase | `photo-showcase` | ⏳ | A gallery page with images and video. |
 
 > This table will be updated as I complete more projects.
 
@@ -41,8 +40,7 @@ HTML Projects/
 
 These projects are based on the HTML roadmap and project ideas from:
 
-- https://roadmap.sh/html
-- https://roadmap.sh/projects
+- https://roadmap.sh/html/projects
 
 ## Notes
 
@@ -53,4 +51,3 @@ These projects are based on the HTML roadmap and project ideas from:
 ---
 
 **Happy Coding! 🚀**
-````
