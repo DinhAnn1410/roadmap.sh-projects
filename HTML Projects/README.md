@@ -21,7 +21,7 @@ The goal of this folder is to practice and strengthen my understanding of core H
 | [Pricing Comparison Table](./pricing-comparison-table) | ✅ | An accessible HTML pricing table. | [roadmap.sh](https://roadmap.sh/projects/pricing-table) |
 | [Blog Post Page](./blog-post-page) | ✅ | A semantic blog post layout. | [roadmap.sh](https://roadmap.sh/projects/blog) |
 | [Contact Form](./contact-form) | ✅ | An accessible HTML contact form. | [roadmap.sh](https://roadmap.sh/projects/contact-form) |
-| [Photo Showcase](./photo-showcase) | ⏳ | A gallery page with images and video. | [roadmap.sh](https://roadmap.sh/projects/image-grid) |
+| [Photo Showcase](./photo-showcase) | ✅ | A gallery page with images and video. | [roadmap.sh](https://roadmap.sh/projects/image-grid) |
 
 > This table will be updated as I complete more projects.
 
